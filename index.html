@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Menu</title>
+	<script src="./L1.js"></script>
+	<script>
+		window.onload = function() {
+			var menu = new Menu('menu', 'menu', [
+			  new MenuItem('/', 'Home'),
+			  new MenuItem('/news', 'News'),
+			  new MenuItem('/blog', 'Blog'),
+			]);
+
+			document.body.appendChild(menu.render());
+    }
+	</script>
+</head>
+<body>
+
+</body>
+</html>
