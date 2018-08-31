@@ -10,10 +10,12 @@
 			  new MenuItem('/', 'Home'),
 			  new MenuItem('/news', 'News'),
 			  new MenuItem('/blog', 'Blog'),
+				new MenuSub('/blog/article', 'Article', 'sub'),
+				new MenuSub('/blog/article2', 'Article2', 'sub'),
+				new MenuSub('/blog/article3', 'Article3', ''),
 			]);
-
 			document.body.appendChild(menu.render());
-    }
+    };
 	</script>
 </head>
 <body>

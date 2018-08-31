@@ -60,3 +60,29 @@ MenuItem.prototype.render = function() {
 
   return li;
 };
+
+function MenuSub(href, label, sub) {
+  Container.call(this, '', 'menu-item');
+
+  this.href = href;
+  this.label = label;
+  this.sub = sub;
+}
+
+MenuSub.prototype = Object.create(Container.prototype);
+MenuSub.prototype.render = function() {
+  if (this.sub === 'sub') {
+    var li = document.createElement('ul');
+    var a = document.createElement('a');
+  } else {
+    var li = document.createElement('li');
+    var a = document.createElement('a');
+  }
+  a.href = this.href;
+  a.textContent = this.label;
+
+  li.appendChild(a);
+  li.className = this.class;
+
+  return li;
+};
