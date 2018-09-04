@@ -2,23 +2,11 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>Menu</title>
-	<script src="./L1.js"></script>
-	<script>
-		window.onload = function() {
-			var menu = new Menu('menu', 'menu', [
-			  new MenuItem('/', 'Home'),
-			  new MenuItem('/news', 'News'),
-			  new MenuItem('/blog', 'Blog'),
-				new MenuSub('/blog/article', 'Article', 'sub'),
-				new MenuSub('/blog/article2', 'Article2', 'sub'),
-				new MenuSub('/blog/article3', 'Article3', ''),
-			]);
-			document.body.appendChild(menu.render());
-    };
-	</script>
+	<title>Title</title>
+	<script src = './menu.js'></script>
+	<script src = "./script.js"></script>
 </head>
 <body>
-
+	<button id = 'send'>Send request</button>
 </body>
 </html>

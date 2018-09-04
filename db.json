@@ -1,0 +1,10 @@
+{
+  "items": [
+    {"id": 1, "label": "Home", "href": "/"},
+    {"id": 2, "label": "News", "href": "/news"},
+    {"id": 3, "label": "Article", "href": "/article", "cont": [
+      {"id": 4, "label": "Daily", "href": "/article/daily"},
+      {"id": 5, "label": "Recommended", "href": "/article/recommended"}
+    ]}
+  ]
+}
