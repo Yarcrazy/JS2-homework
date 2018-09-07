@@ -1,0 +1,27 @@
+input, h5 {
+  margin: 0;
+}
+#form {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  width: 800px;
+}
+h5 {
+  padding: 20px;
+  font-size: 20px;
+}
+input, textarea {
+  min-height: 50px;
+  font-size: 20px;
+  padding: 0 10px;
+  min-width: 300px;
+}
+div {
+  display: flex;
+}
+p {
+  font-size: 20px;
+  margin-left: 20px;
+  display: inline-block;
+}
