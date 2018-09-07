@@ -33,5 +33,6 @@ LargeText.prototype.addText = function() {
  * @returns {string} возвращает измененный текст
  */
 LargeText.prototype.format = function() {
-  return this.text.replace(/'/g, '\"');
+  //сначала меняем все ' на ", потом " не окруженные словесными символами меняем обратно
+  return this.text.replace(/\b"\b/g, '\'').replace(/'/g, '\"');
 };
