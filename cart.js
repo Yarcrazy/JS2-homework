@@ -160,8 +160,5 @@ function buildGoodsList() {
         })
       }
     });
-    $('#send').on('click', function() {
-
-    });
   });
 })(jQuery);
