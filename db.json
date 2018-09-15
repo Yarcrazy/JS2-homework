@@ -34,43 +34,38 @@
   "cart": [
     {
       "id": "3",
-      "quantity": 2,
+      "quantity": 5,
       "name": "Носки",
       "price": "150"
+    },
+    {
+      "id": "4",
+      "quantity": 2,
+      "name": "Шапки",
+      "price": "567"
+    },
+    {
+      "id": "2",
+      "quantity": 2,
+      "name": "Майки",
+      "price": "100"
+    },
+    {
+      "id": "1",
+      "quantity": 1,
+      "name": "Трусы",
+      "price": "255"
     }
   ],
   "comments": [
     {
-      "id": 1,
-      "text": "123"
+      "id": 4,
+      "text": "ываыва",
+      "status": "decline"
     },
     {
       "id": 2,
-      "text": "1234"
-    },
-    {
-      "id": 3,
-      "text": "123"
-    },
-    {
-      "id": 4,
-      "text": "3"
-    },
-    {
-      "id": 5,
-      "text": "123"
-    },
-    {
-      "id": 6,
-      "text": "123"
-    },
-    {
-      "id": 7,
-      "text": "4444"
-    },
-    {
-      "id": 8,
-      "text": "3"
+      "text": "ываыва"
     }
   ]
 }
