@@ -1,0 +1,286 @@
+{
+  "cities": [
+    {
+      "city_id": "5020595",
+      "country_id": "3159",
+      "region_id": "4481",
+      "name": "Полярные Зори"
+    },
+    {
+      "city_id": "5020614",
+      "country_id": "3159",
+      "region_id": "4105",
+      "name": "Сосновоборск"
+    },
+    {
+      "city_id": "5911547",
+      "country_id": "1786",
+      "region_id": "1802",
+      "name": "Падуя"
+    },
+    {
+      "city_id": "5911563",
+      "country_id": "1786",
+      "region_id": "1802",
+      "name": "Венеция"
+    },
+    {
+      "city_id": "6113699",
+      "country_id": "3159",
+      "region_id": "2499002",
+      "name": "Нефтеюганск"
+    },
+    {
+      "city_id": "6128604",
+      "country_id": "582050",
+      "region_id": "6128546",
+      "name": "Бангкок"
+    },
+    {
+      "city_id": "6128656",
+      "country_id": "1258",
+      "region_id": "6128641",
+      "name": "Керкира"
+    },
+    {
+      "city_id": "6128703",
+      "country_id": "582082",
+      "region_id": "6128697",
+      "name": "Мапуто"
+    },
+    {
+      "city_id": "6453661",
+      "country_id": "582040",
+      "region_id": "6453632",
+      "name": "Dagu"
+    },
+    {
+      "city_id": "6454651",
+      "country_id": "3159",
+      "region_id": "5356",
+      "name": "Мегион"
+    },
+    {
+      "city_id": "6456567",
+      "country_id": "3159",
+      "region_id": "4105",
+      "name": "Кодинск"
+    },
+    {
+      "city_id": "6460485",
+      "country_id": "582043",
+      "region_id": "6460443",
+      "name": "Моста"
+    },
+    {
+      "city_id": "6711408",
+      "country_id": "3159",
+      "region_id": "2415585",
+      "name": "Билибино"
+    },
+    {
+      "city_id": "6712230",
+      "country_id": "1366",
+      "region_id": "2077237",
+      "name": "Хельсингор"
+    },
+    {
+      "city_id": "7592215",
+      "country_id": "3159",
+      "region_id": "4800",
+      "name": "Егорлыкская"
+    },
+    {
+      "city_id": "7592385",
+      "country_id": "1012",
+      "region_id": "1053",
+      "name": "Майнинген"
+    },
+    {
+      "city_id": "7592923",
+      "country_id": "3159",
+      "region_id": "4312",
+      "name": "Байконур"
+    },
+    {
+      "city_id": "7593075",
+      "country_id": "3159",
+      "region_id": "4312",
+      "name": "Краснознаменск"
+    },
+    {
+      "city_id": "7593157",
+      "country_id": "2297",
+      "region_id": "2300",
+      "name": "Гирне"
+    },
+    {
+      "city_id": "7593225",
+      "country_id": "3159",
+      "region_id": "2499002",
+      "name": "Нягань"
+    },
+    {
+      "city_id": "7593385",
+      "country_id": "582044",
+      "region_id": "7593366",
+      "name": "Исламабад"
+    },
+    {
+      "city_id": "7593394",
+      "country_id": "582044",
+      "region_id": "7593366",
+      "name": "Карачи"
+    },
+    {
+      "city_id": "7593405",
+      "country_id": "582044",
+      "region_id": "7593366",
+      "name": "Лахоре"
+    },
+    {
+      "city_id": "7715963",
+      "country_id": "582082",
+      "region_id": "6128697",
+      "name": "Бейра"
+    },
+    {
+      "city_id": "7715991",
+      "country_id": "582082",
+      "region_id": "6128697",
+      "name": "Нампула"
+    },
+    {
+      "city_id": "7716005",
+      "country_id": "582082",
+      "region_id": "6128697",
+      "name": "Пемба"
+    },
+    {
+      "city_id": "7716144",
+      "country_id": "7716093",
+      "region_id": "7716133",
+      "name": "Балайм"
+    },
+    {
+      "city_id": "7717502",
+      "country_id": "3159",
+      "region_id": "2499002",
+      "name": "Излучинск"
+    },
+    {
+      "city_id": "7717702",
+      "country_id": "3159",
+      "region_id": "5019394",
+      "name": "Ноябрьск"
+    },
+    {
+      "city_id": "7717820",
+      "country_id": "2374",
+      "region_id": "4691804",
+      "name": "Женьжень"
+    },
+    {
+      "city_id": "7717879",
+      "country_id": "1012",
+      "region_id": "1152",
+      "name": "Нидеркассель"
+    },
+    {
+      "city_id": "7718155",
+      "country_id": "1012",
+      "region_id": "1083",
+      "name": "Роттвайл"
+    },
+    {
+      "city_id": "7718164",
+      "country_id": "1012",
+      "region_id": "1083",
+      "name": "Туттлинген"
+    },
+    {
+      "city_id": "7718175",
+      "country_id": "1012",
+      "region_id": "1083",
+      "name": "Филлинген-Швеннинген"
+    },
+    {
+      "city_id": "7718218",
+      "country_id": "1012",
+      "region_id": "1152",
+      "name": "Хамм"
+    },
+    {
+      "city_id": "7718652",
+      "country_id": "3159",
+      "region_id": "2499002",
+      "name": "Ханты-Мансийск"
+    },
+    {
+      "city_id": "7718848",
+      "country_id": "1012",
+      "region_id": "1064",
+      "name": "Розенхейм"
+    },
+    {
+      "city_id": "7719220",
+      "country_id": "9908",
+      "region_id": "10504",
+      "name": "Мерефа"
+    },
+    {
+      "city_id": "7719232",
+      "country_id": "9908",
+      "region_id": "10504",
+      "name": "Песочин"
+    },
+    {
+      "city_id": "7719603",
+      "country_id": "11060",
+      "region_id": "11094",
+      "name": "Цущиура"
+    },
+    {
+      "city_id": "7719867",
+      "country_id": "2172",
+      "region_id": "2242",
+      "name": "Ньюмаркет"
+    },
+    {
+      "city_id": "7719915",
+      "country_id": "582064",
+      "region_id": "7719907",
+      "name": "Кито"
+    },
+    {
+      "city_id": "7720010",
+      "country_id": "9908",
+      "region_id": "10165",
+      "name": "Вышгород"
+    },
+    {
+      "city_id": "7720744",
+      "country_id": "10904",
+      "region_id": "277666",
+      "name": "Санкт-Галлен"
+    },
+    {
+      "city_id": "10498697",
+      "country_id": "3159",
+      "region_id": "5191",
+      "name": "Солнечнодольск"
+    },
+    {
+      "city_id": "10499269",
+      "country_id": "3159",
+      "region_id": "5019394",
+      "name": "Тарко"
+    },
+    {
+      "city_id": "10499434",
+      "country_id": "10933",
+      "region_id": "4778004",
+      "name": "Кируна"
+    }
+  ]
+}
