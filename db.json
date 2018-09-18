@@ -1,0 +1,10 @@
+{
+  "fields": [
+    {"id": "name", "tag": "input", "type": "text", "textError": "Имя должно содержать только буквы"},
+    {"id": "phone", "tag": "input", "type": "text", "textError": "Номер телефона должен быть в формате +7(000)000-0000"},
+    {"id": "email", "tag": "input", "type": "text", "textError": "Email должен быть в формате mymail@mail.ru, или my.mail@mail.ru, или my-mail@mail.ru"},
+    {"id": "text", "tag": "textarea", "type": "", "textError": ""},
+    {"id": "date", "tag": "input", "type": "text", "textError": ""},
+    {"id": "send", "tag": "input", "type": "submit", "textError": ""}
+  ]
+}
