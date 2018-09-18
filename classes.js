@@ -20,11 +20,13 @@ Field.prototype.renderHeader = function() {
 };
 
 Field.prototype.renderError = function() {
-  var p = document.querySelector('#' + this.id + '+p');
-  console.log('#' + this.id + '+p');
-  // this.div.removeChild(document.querySelector('p'));
+  var error = document.querySelector('.' + this.id);
+  if (error) {
+    error.parentElement.removeChild(error);
+  }
   var errorField = document.createElement('p');
   errorField.textContent = this.textError;
+  errorField.classList.add(this.id);
   this.div.appendChild(errorField);
 };
 

@@ -4,7 +4,7 @@
   $(function () {
     $.ajax({
       'url': 'http://localhost:3000/fields',
-      'dataType': "json",
+      'dataType': 'json',
       success: function(items) {
         items = items.map(function(item) {
           var field = new Field(item.id, item.tag, item.type, item.textError);
