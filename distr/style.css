@@ -1,0 +1,11 @@
+menu {
+  width: 300px;
+}
+footer {
+  height: 100px;
+}
+menu {
+  background-color: #fff;
+  color: #aaaaaa;
+  display: block;
+}
